@@ -27,24 +27,24 @@ main{
 .step1-img{
   background-image: url(img/flow01.png);
   background-size: cover;
-  background-position: center;
-  width: 300px;
+  background-position: bottom;
+  width: 280px;
   height: 150px;
   margin-bottom:  15px;
 }
 .step2-img{
   background-image: url(img/flow02.png);
   background-size: cover;
-  background-position: center;
-  width: 300px;
+  background-position: bottom;
+  width: 280px;
   height: 150px;
   margin-bottom:  15px;
 }
 .step3-img{
   background-image: url(img/flow03.png);
   background-size: cover;
-  background-position: center;
-  width: 300px;
+  background-position: bottom;
+  width: 280px;
   height: 150px;
   margin-bottom:  15px;
 }
@@ -57,7 +57,7 @@ h3{
   left: 0px;
   background-color: #FF9A4B;
   color: white;
-  
+  padding: 3px;
 }
 .second-step{
   position: absolute;
@@ -65,7 +65,7 @@ h3{
   left: 0px;
   background-color: #FF9A4B;
   color: white;
-  
+  padding: 3px;
 }
 .third-step{
   position: absolute;
@@ -73,7 +73,7 @@ h3{
   left: 0px;
   background-color: #FF9A4B;
   color: white;
-  
+  padding: 3px;
 }
 
 footer{
